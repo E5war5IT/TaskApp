@@ -1,0 +1,27 @@
+.react-input {
+    /*position: absolute;*/
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+    outline: none;
+    border: none;
+
+    width: 180px;
+    height: 45px;
+
+    background: #EEEEEE;
+    border-radius: 10px;
+
+    color: #030303;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 25px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}

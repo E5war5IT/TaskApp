@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    /*
+    left: calc(50% - 175px/2 - 0.5px);
+    top: calc(50% - 43px/2 - 350.5px);
+    */
+    /* background: #030303;*/
+    color: hsla(0, 0%, 1%, 1);
+}
