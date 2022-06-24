@@ -11,4 +11,4 @@ git clone https://github.com/E5war5IT/TaskApp.git
 npm install
 npm run dev
 ```
-[!example](ScreenShots/screen.png)
+[!example](./ScreenShots/screen.png)
